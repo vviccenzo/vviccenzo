@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-<center>
+
 <table>
   <tr>
     <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=vviccenzo&show_icons=true ></td>
     <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=vviccenzo&show_icons=true&layout=compact></td>
   </tr>  
 </table>
-</center>
 
 <!--
 **vviccenzo/vviccenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
