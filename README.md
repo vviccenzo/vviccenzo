@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/vinicius-vicenzo-0420511b9/"><img src="https://img.shields.io/badge/-rubenmarcus-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:vvprockl@outlook.com"><img src="https://img.shields.io/badge?style=flat&logo=Gmail&logoColor=white" /></a>
+</p>
+
 
 <table>
   <tr>
