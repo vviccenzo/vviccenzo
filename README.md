@@ -2,6 +2,7 @@
 
 - I'm Vinícius. I am a Full-Stack Developer.
 - I'm currently pursuing my bachelor's degree majoring in software engineering! :computer:
+<br>
 
 <div align="center">
   <a href="https://github.com/vviccenzo">
