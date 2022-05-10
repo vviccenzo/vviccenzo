@@ -12,6 +12,8 @@ const vini = {
   tools: [React,  Node, Rails, Django, React Native, Flutter, Docker, Bootstrap];
 ```
 
+<br><br>
+
 <div align="center">
   <a href="https://github.com/vviccenzo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vviccenzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
