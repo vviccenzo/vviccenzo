@@ -7,9 +7,8 @@
 
 ```javascript
 const vini = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React,  Node, Rails, Django, React Native, Flutter, Docker, Bootstrap];
+  code: [Java],
+  tools: [Spring(Cloud, MVC, Security, Web), Docker, AWS, Hibernate, JPA, Postgress];
 ```
 
 <br><br>
