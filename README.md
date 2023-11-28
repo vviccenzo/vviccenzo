@@ -9,6 +9,7 @@
 const vini = {
   code: [Java],
   tools: [Spring(Cloud, MVC, Security, Web), Docker, AWS, Hibernate, JPA, Postgress];
+}
 ```
 
 <br><br>
